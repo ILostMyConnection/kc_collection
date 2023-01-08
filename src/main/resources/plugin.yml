@@ -1,0 +1,5 @@
+name: KCEssentials
+version: '${project.version}'
+main: de.moritz.Main
+api-version: 1.19
+authors: [ Moritz ]
